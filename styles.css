@@ -32,13 +32,14 @@ html {
 
 .matrix-animation {
   visibility: visible;
-  font-size: 4rem;
+  font-size: 0.8em;
   box-shadow: -4px -5px 37px 25px rgba(0, 0, 0, 0.75);
+  flex-wrap: wrap;
 }
 
 button {
   padding: 10px 20px;
-  font-size: 1.5rem;
+  font-size: 0.3em;
   background-color: #147fbc;
   color: #ffffff;
   border-radius: 80px 20px;
@@ -47,5 +48,5 @@ button {
 }
 
 button:hover {
-  font-size: 1.7rem;
+  font-size: 0.4em;
 }
