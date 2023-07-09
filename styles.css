@@ -54,6 +54,6 @@ button:hover {
 
 @media only screen and (max-width: 900px) {
   .matrix-overlay {
-    font-size: 1.3em;
+    font-size: 1.5em;
   }
 }
